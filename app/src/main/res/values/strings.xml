@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChargeBattery</string>
+    <string name="battery_charge_info_text"></string>
+</resources>
